@@ -1,5 +1,4 @@
-### Hi there 👋
-I'm Dijon Braga ;)
+### Hi there 👋 I'm Dijon Braga ;)
 
 I'm Android Developer.
 
