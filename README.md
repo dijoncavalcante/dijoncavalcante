@@ -8,7 +8,7 @@ Nice to meet you.
 
 My goal here is to share my knowledge with you.
 
-Thing Big!
+Think Big!
 
 - 🌱 *Currently learning*: Kotlin Language
 
